@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "cctype": "cpp",
+        "promt.h": "c",
+        "stdlib.h": "c",
+        "ctype.h": "c",
+        "cstdarg": "cpp"
+    }
+}
