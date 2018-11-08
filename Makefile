@@ -2,5 +2,5 @@ CC = cc
 CFLAGS = -std=c99 -Wall -g
 FILES = prompt.c example.c
 
-build:
+example:
 	$(CC) $(CFLAGS) $(FILES) -o example
